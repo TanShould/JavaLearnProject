@@ -29,3 +29,8 @@ public class HelloWorld {
 使用`javac Helloworld.java`编译Java
 
 再键入`Java Helloworld`即可运行程序
+
+### 代码解释
+
+` public static void main(String []args) ` 是一切Java的开端
+` System.out.println` 用于输出字符串。
